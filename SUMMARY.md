@@ -1,8 +1,8 @@
 # Summary
 
-* [Chapter 1](part1/chapter1.md)
-	* [Chapter1_1](part/chapter1_1.md)
-	* [Chapter1_2](part/chapter1_2.md)
+* [Chapter 1](chapter1.md)
+	* [Chapter1_1](chapter1_1.md)
+	* [Chapter1_2](chapter1_2.md)
 
 * [Chapter 2](part2/chapter2.md)
 	* [Chapter2_1](part/chapter2_1.md)
