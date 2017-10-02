@@ -10,6 +10,10 @@ Hello we are Redix
 
 > 형상 관리 도구인 git을 사용하거나 gitbook을 사용하여 소책자를 온라인 및 오프라인으로 출판하는 과정을 설계하고 소책자를 제작하라.
 
-*****
+우리 Redix team은 오픈소스 SW 수업에 다음과 같은 과제를 받게 되었다. 오픈소스 소개 및 역사에 관한 소책자를 어떻게 오픈소스화 하여 출판할 것인지에 대해 팀원들과 여러가지의 방법을 고민하였고,
+__Gi__t - __Github__ - __GitBook__
+이라는 Git의 workflow 방식으로 결정 하게 되었다.
 
-우리는 
+우리가 대표자 저장소로 사용항 __Github__는
+https://github.com/ParkShinHyun92/OpenSoftware
+이다.
