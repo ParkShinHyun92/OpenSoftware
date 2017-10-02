@@ -14,6 +14,8 @@ Hello we are Redix
 __Gi__t - __Github__ - __GitBook__
 이라는 Git의 workflow 방식으로 결정 하게 되었다.
 
+![Alt text](/Users/test/Downloads/gitbook.png)
+
 * 대표 저장소로 사용한 __Github__
 	* https://github.com/ParkShinHyun92/OpenSoftware
 * 대표 저장소를 fork한 팀원들의 __Github__
