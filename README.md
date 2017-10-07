@@ -9,11 +9,11 @@
 > 형상 관리 도구인 git을 사용하거나 gitbook을 사용하여 소책자를 온라인 및 오프라인으로 출판하는 과정을 설계하고 소책자를 제작하라.
 
 우리 **Redix team**은 오픈소스 SW 수업에 다음과 같은 과제를 받게 되었다. 오픈소스 소개 및 역사에 관한 소책자를 어떻게 오픈소스화 하여 출판할 것인지에 대해 팀원들과 여러가지의 방법을 고민하였고,  
-**Gi**t - **Github** - **GitBook**  
+                                 **Gi**t - **Github** - **GitBook**  
 이라는 Git의 workflow 방식으로 결정 하게 되었다.
 
 
-
+![](/assets/github.png)
 ![](/assets/gitbook.png)
 
 * 대표 저장소로 사용한 **Github**
@@ -24,5 +24,5 @@
   * [https://github.com/miller198/OpenSoftware](https://github.com/miller198/OpenSoftware)
   * [https://github.com/ptcjw201/OpenSoftware](https://github.com/ptcjw201/OpenSoftware)
 
-
+이제 우측 상당의 Read 버튼을 클릭하여 우리의 책을 보도록 하자!!
 
