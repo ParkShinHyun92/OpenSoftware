@@ -24,5 +24,5 @@
   * [https://github.com/miller198/OpenSoftware](https://github.com/miller198/OpenSoftware)
   * [https://github.com/ptcjw201/OpenSoftware](https://github.com/ptcjw201/OpenSoftware)
 
-
+이제 우측 상당의 Read 버튼을 클릭하여 우리의 책을 보도록 하자!!
 
