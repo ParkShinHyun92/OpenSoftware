@@ -7,6 +7,8 @@
 * [Chapter 2](chapter2.md)
 	* [Chapter2_1](chapter2_1.md)
 	* [Chapter2_2](chapter2_2.md)
+	* [Chapter2_3](chapter2_3.md)
+	* [Chapter2_4](chapter2_4.md)
 
 * [Chapter 3](chapter3.md)
 	* [Chapter3_1](chapter3_1.md)
