@@ -20,7 +20,7 @@
 >
 > 4. 프로그램을 향상시키고 이를 공동체 전체의 이익을 위해서 다시 환원시킬 수 있는 자유. 이러한 자유를 위해서는 소스코드에 대한 접근이 선행되어야 한다.
 >
->    [출처][(https://www.gnu.org/philosophy/free-sw.html]
+>    [출처](https://www.gnu.org/philosophy/free-sw.html)
 
    
 
@@ -47,8 +47,6 @@
 
 
 * **자유 소프트웨어 재단**
-
-  ![자유소프트웨어](https://media.licdn.com/media/p/2/000/2cf/25e/303a5eb.png)
 
   자유 소프트웨어 재단(Free Software Foundation,FSF)는 자유 소프트웨어 개발을 지원하기 위해 1985년 미국 보스턴에서 설립된 비영리 기구이다. 
 
