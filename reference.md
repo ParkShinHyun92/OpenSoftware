@@ -1,6 +1,6 @@
 ## Reference
 
-#- Chapter1
+- Chapter1
 
 	- http://blog.naver.com/thl0818/221085219318
 	- http://www.ddaily.co.kr/news/article.html?no=115248
@@ -12,7 +12,7 @@
 	- https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9E%AC%EB%8B%A8
 
 
-#- Chapter2
+- Chapter2
 
 	- http://www.ciokorea.com/news/19907?page=0,0
 	- http://platum.kr/archives/42834
@@ -21,7 +21,7 @@
 	- http://egloos.zum.com/tactlee/v/2777174
 
 
-#- Chapter3
+- Chapter3
 
 	- https://source.android.com/
 	- https://en.wikipedia.org/wiki/NCSA_HTTPd
@@ -41,7 +41,7 @@
 	- http://community.apache.org/
 
 
-#- Chapter4
+- Chapter4
 
 	- http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=031&aid=0000397600
 	- http://www.itworld.co.kr/tags/1261/%EB%A6%AC%EB%88%85%EC%8A%A4/102418
