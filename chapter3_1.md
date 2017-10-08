@@ -1,4 +1,5 @@
-#오픈소스 관련인물
+## 3-1. 오픈소스 관련인물
+========================
  * ##리처드 스톨만 (Richard Matthew Stallman)
 
  ![](/assets/stallman.jpg)
