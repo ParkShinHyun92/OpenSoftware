@@ -36,6 +36,7 @@
 	- https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%84%EC%8A%A4_%ED%86%A0%EB%A5%B4%EB%B0%9C%EC%8A%A4
 	- https://ko.wikipedia.org/wiki/%EC%97%90%EB%A6%AD_%EB%A0%88%EC%9D%B4%EB%A8%BC%EB%93%9C
 	- https://wiki.kldp.org/wiki.php/DocbookSgml/Cathedral-Bazaar-TRANS
+	- http://community.apache.org/
 
 - Chapter4
 
