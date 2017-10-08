@@ -1,6 +1,6 @@
 # Summary
 
-* [Chapter 1](chapter1.md)
+* [Chapter 1]
 	* [Chapter1_1](chapter1_1.md)
 	* [Chapter1_2](chapter1_2.md)
 	* [Chapter1_3](chapter1_3.md)
