@@ -3,6 +3,7 @@
 * [Chapter 1](chapter1.md)
 	* [Chapter1_1](chapter1_1.md)
 	* [Chapter1_2](chapter1_2.md)
+	* [Chapter1_3](chapter1_3.md)
 
 * [Chapter 2](chapter2.md)
 	* [Chapter2_1](chapter2_1.md)
