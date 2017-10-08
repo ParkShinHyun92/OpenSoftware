@@ -38,3 +38,8 @@
 	- https://wiki.kldp.org/wiki.php/DocbookSgml/Cathedral-Bazaar-TRANS
 
 - Chapter4
+
+	- http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=031&aid=0000397600
+	- http://www.itworld.co.kr/tags/1261/%EB%A6%AC%EB%88%85%EC%8A%A4/102418
+	- http://www.bloter.net/archives/16333
+	- https://namu.wiki/w/%EC%97%98%EB%A6%BC%EB%84%B7%EA%B3%BC%20%ED%95%98%EC%9D%B4%EC%98%A8%EB%84%B7%20%EC%82%AC%EA%B1%B4
