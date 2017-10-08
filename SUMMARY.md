@@ -20,4 +20,4 @@
 	* [Chapter4_2](chapter4_2.md)
 
 * [Reference](reference.md)
-* [출판을 마무리하며...](additional.md)
+* [출판을 마무리하며](additional.md)
